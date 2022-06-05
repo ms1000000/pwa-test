@@ -1,3 +1,3 @@
-const handler = self.addEventListener("fetch", (event) => {
+/*const handler = self.addEventListener("fetch", (event) => {
 
-});
+});*/
