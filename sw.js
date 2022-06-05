@@ -1,2 +1,1 @@
-const test = undefined;
-//self.addEventListener("fetch", (event) => {});
+self.addEventListener("fetch", () => {});
